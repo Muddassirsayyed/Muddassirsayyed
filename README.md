@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muddassir Sayyed and I'm a , from Bhusawal</h2>
+<h2 align="left">Hi 👋! My name is Muddassir Sayyed and I'm a ,AI/ML Engineer </h2>
 
 ###
 
