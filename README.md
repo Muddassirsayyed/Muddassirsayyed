@@ -3,18 +3,20 @@
 <h3 align="center">🚀 AI/ML Engineer | Full Stack Developer | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Full+Stack+Developer;Python+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer;Full+Stack+Developer;Python+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 🎓 B.Tech Student passionate about **AI/ML & Full Stack Development**
-- 💻 Working on **MERN Stack & Python Projects**
-- 🚀 Building Real World Projects & Automation Systems
-- 🌱 Currently learning **Advanced AI, APIs & Cloud**
-- ⚡ Fun fact: I love building futuristic tech projects
+- 💻 Building **MERN Stack & Python Projects**
+- 🚀 Creating **AI Automation & Real World Applications**
+- 🌱 Currently learning **Advanced AI, APIs, Cloud & DevOps**
+- ⚡ Fun fact: **I love building futuristic tech projects**
 
 ---
 
@@ -29,20 +31,57 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muddassirsayyed&theme=github_dark" height="180em"/>
 </p>
 
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,cs,git,github,vscode" />
+  <img src="https://streak-stats.demolab.com?user=Muddassirsayyed&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muddassirsayyed&theme=tokyonight&hide_border=true" />
+
+<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/supabase-181818?style=for-the-badge&logo=supabase&logoColor=green" />
+
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muddassirsayyed&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -58,21 +97,23 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.youtube.com/@Mmgaming7860">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 
-  <a href="https://www.instagram.com/symudassirsayyed/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<a href="https://www.youtube.com/@Mmgaming7860">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-  <a href="https://www.linkedin.com/in/muddassir-mushtaque-163216361/">
+<a href="https://www.instagram.com/symudassirsayyed/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/muddassir-mushtaque-163216361/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
