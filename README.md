@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋! My name is Muddassir Sayyed and I'm an AI/ML Engineer</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muddassirsayyed&show_icons=true&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muddassirsayyed&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muddassirsayyed&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muddassirsayyed&theme=github_dark" />
 </p>
 
 ---
