@@ -18,11 +18,11 @@
 
 ### 🌐 Socials
 
-[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](YOUR_LINK)
+[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)]([YOUR_LINK](https://www.youtube.com/@Mmgaming7860))
 
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](YOUR_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)]([YOUR_LINK](https://www.instagram.com/symudassirsayyed/))
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINK](https://www.linkedin.com/in/muddassir-mushtaque-163216361/))
 
 ---
 
