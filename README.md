@@ -84,14 +84,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Muddassirsayyed" />
 </p>
 
-## 🏆 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/Muddassir_5286/">
-    <img src="https://leetcard.jacoblin.cool/Muddassir_5286?theme=dark&font=Baloo&ext=contest" />
-  </a>
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
