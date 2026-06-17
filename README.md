@@ -37,7 +37,6 @@
 
 ---
 
-# 💻 Tech Stack
 
 # 💻 Tech Stack
 
