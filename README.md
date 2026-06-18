@@ -12,7 +12,7 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 B.Tech Student passionate about **AI/ML & Full Stack Development**
+- 🎓 B.Tech Student passionate about **AI/ML & Full Stack Development*
 - 💻 Building **MERN Stack & Python Projects**
 - 🚀 Creating **AI Automation & Real World Applications**
 - 🌱 Currently learning **Advanced AI, APIs, Cloud & DevOps**
