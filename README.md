@@ -38,7 +38,7 @@
 ---
 
 
-# 💻 Tech Stack
+# 💻 Tech Stac
 
 <p align="center">
 
