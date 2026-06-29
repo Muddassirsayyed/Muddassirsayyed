@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muddassir Sayyed</h1>
 
-<h3 align="center">🚀 AI\ML Engineer | Full Stack Developer | Open Source Contributor</h3>
+<h3 align="center">🚀 AI/ML Engineer | Full Stack Developer | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer;Full+Stack+Developer;Python+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor" />
