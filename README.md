@@ -16,7 +16,7 @@
 - 💻 Building **MERN Stack & Python Projects**
 - 🚀 Creating **AI Automation & Real World Applications**
 - 🌱 Currently learning **Advanced AI, APIs, Cloud & DevOps**
-- ⚡ Fun fact: **I lovebuilding futuristic tech projects**
+- ⚡ Fun fact: **I love building futuristic tech projects**
 
 ---
 
